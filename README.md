@@ -8,4 +8,4 @@ To get set up, you need to
 # Assignment
 1. Write tests for each file in `/test` (files are prepared), and make sure they fail by running `mocha`; if this command cannot be found, run `$ npm install mocha chai -g` first
 2. Write the methods that make these tests pass (check by running `$ mocha` again)
-3. Once done, push to your own branch (named after your first name) of the iterators repository
+3. Once done, push to your own branch (named after your first name) of the iterators repository: `$ git push origin HEAD:firstname` (replace 'firstname' with your first name)
