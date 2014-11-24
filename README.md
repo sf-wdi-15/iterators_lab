@@ -110,3 +110,5 @@ var assert = require("assert");
 var colors = require("colors");
 
 ```
+
+This is helpful if you want to print out cool and colorful error messages to the console.
