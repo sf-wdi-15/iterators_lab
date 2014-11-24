@@ -19,5 +19,8 @@
   "devDependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.0.3"
   }
 }
