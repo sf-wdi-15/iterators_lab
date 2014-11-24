@@ -1,0 +1,23 @@
+{
+  "name": "iterators",
+  "version": "1.0.0",
+  "description": "To get set up, you need to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sf-wdi-14/iterators"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sf-wdi-14/iterators/issues"
+  },
+  "homepage": "https://github.com/sf-wdi-14/iterators",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
