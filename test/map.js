@@ -1,5 +1,10 @@
-var expect = require('chai').expect;
+var assert = require("assert");
+var colors = require("colors");
 
-// Write a test for a method called 'map' that loops over an array
-// and returns the result of each operation in a new array.
-// Then write the method that will make that test pass.
+
+// Write the method that will make the assertions pass.
+
+// Write assertions for a method called 'map' that loops over an array
+//  and returns the result of each operation in a new array.
+
+console.log("Map is working!".cyan)

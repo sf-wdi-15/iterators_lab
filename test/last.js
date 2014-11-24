@@ -1,5 +1,11 @@
-var expect = require('chai').expect;
+var assert = require("assert");
+var colors = require("colors");
 
-// Write a test for a method called 'last' that returns the last element
+var last = function (arr) {
+  // return the last value in the arr
+  // return undefined if arr.length is 0
+};
+
+// Write assertions for a function called 'last' that returns the last element
 // of an array.
-// Then write the method that will make that test pass.
+console.log("Assert is working!")
