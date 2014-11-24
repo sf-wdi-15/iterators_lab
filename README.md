@@ -95,6 +95,8 @@ Now when the `assert.equal` fails to be true it will print our `"custom message"
 
 ## Directions
 
+To get setup fork and clone this repo then run `npm install`.
+
 In this homework you'll be implementing some useful function that are commonly used in making web applications: `first`, `last`, `indexOf`, `last`, and of course, `each` and `map`.
 
 Your job will be to use the `assert.equal` method to write assertions that test your function is working correctly. Each file can be run using
