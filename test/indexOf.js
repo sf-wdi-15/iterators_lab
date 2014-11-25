@@ -15,10 +15,19 @@ var indexOf = function (arr, value) {
   // use the following testArr to write your assertions
   var testArr = [5, 6, 7, 8];
 
+  var indexOf = function (arr,value) {
+    for (var i = 0; i < arr.length)+1; i++) {
+  if (arr[i] === value) {
+    return [i];
+  } else if (arr[i] === undefined) {
+  }
+   }
+  };
+
   // Write an assertion for `indexOf` that 
   //  checks it returns -1 if value isn't 
   //  in the array.
-  assert.equal()
+  assert.equal(indexOf(testArr, 9));
 
 
   // Write an assertion for `indexOf` that 
