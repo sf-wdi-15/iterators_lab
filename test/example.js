@@ -16,6 +16,6 @@ assert.equal(person.firstName, "Jane", "firstName should be 'Jane'".red);
 // check person.lastName is Doe
 assert.equal(person.lastName, "Doe", "lastName should be 'Doe'".red);
 // check person.fullName returns "Doe, Jane"
-assert.equal(person.fullName(), "Jane Doe", "fullName should be 'Doe, Jane'".red);
+assert.equal(person.fullName(), "Doe, Jane", "fullName should be 'Doe, Jane'".red);
 
 console.log("Example is working!".cyan)
