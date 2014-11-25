@@ -3,7 +3,7 @@ var colors = require("colors");
 
 // write the function that will make that test pass.
 var first = function (arr) {
-
+  return arr[0];
 };
 // Make the following assertions pass
 var testArr = [5, 6, 7, 8];

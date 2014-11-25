@@ -7,6 +7,12 @@ var indexOf = function (arr, value) {
   //  value in the arr.
   // if the value isn't in the arr it 
   //  should return -1
+  for (var index = 0; index < arr.length; index +=1 ) {
+    if (arr[index] === value) {
+      return index;
+    }
+  }
+  return -1;
 };
 
 // Write assertions for a method called 'indexOf' that returns the index of
