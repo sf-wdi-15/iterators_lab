@@ -1,8 +1,16 @@
-var assert = require("assert");
+opvar assert = require("assert");
 var colors = require("colors");
 
 // write the function that will make that test pass.
 var first = function (arr) {
+	if (arr === [])
+	{
+		return undefined;
+	}
+	else
+	{
+     return arr[0];
+	}
 
 };
 // Make the following assertions pass
